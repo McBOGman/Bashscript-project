@@ -1,2 +1,2 @@
 # Bashscript-project
-A collection of bash scripts
+A collection of my bash scripts.
